@@ -13,5 +13,5 @@ application on private networks. This program is designed for fast file transfer
 encryption is used. If you use this program to send sensitive files on a public network, someone on the network can use
 a packet sniffer to piece together the file you are sending.
 
-Note: The Android version of this app can be found on the Google Play Store at the following link:
+The Android version of this app can be found on the Google Play Store at the following link:
 https://play.google.com/store/apps/details?id=com.project.filetransfergui
